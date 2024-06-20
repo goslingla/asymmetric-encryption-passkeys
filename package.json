@@ -1,0 +1,13 @@
+{
+    "name": "tarefa4-rsa",
+    "version": "1.0.0",
+    "private": true,
+    "workspaces": [
+      "client",
+      "server"
+    ],
+    "dependencies": {
+      "node-forge": "^0.10.0"
+    }
+  }
+  
